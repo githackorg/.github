@@ -1,11 +1,14 @@
-<a align="center" href="index.html">
+<p align="center">
+<a href="https://www.githack.org">
 	<img src="https://raw.githubusercontent.com/githackorg/.github/main/assets/logo.png" class="center" width="95%" height="95%"/>
 </a>
-<p align="left">
-<h2>
-	<b> Welcome to our Organization </b> <img align="left" src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/hello-world.gif" width="29px">
+</p>
+
+<p align="center">
+<h2 align="center">
+	<img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/hello-world.gif" width="29px"> <b> Welcome </b> 
 </h2>
-	<a href="index.html">
+	<a href="https://www.githack.org">
 		<img align="right" src="https://komarev.com/ghpvc/?username=githackorg&color=brightgreen&style=plastic" alt="MacrowebCloud github repo views"/>
 	</a>
 </p>
@@ -39,5 +42,5 @@ We are as competitive as we can to offer our customers something completely diff
 
 ---
 <!-- a href = git path with Master branch, change it if you use another Branch-name -->
-<a href="https://github.com/g1f1/.special/blob/Master/langs/EN/readme.md"><img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/icons/lang/en.svg" width="2%" height="2%"> English</a> </img> - 
-<a href="https://github.com/g1f1/.special/blob/Master/langs/GR/readme.md"><img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/icons/lang/gr.svg" width="2%" height="2%"> Greek</a> </img> - 
+<a href="https://github.com/githackorg/.github/blob/Master/langs/EN/readme.md"><img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/icons/lang/en.svg" width="22px" height="22px"> English</a> </img> - 
+<a href="https://github.com/githackorg/.github/blob/Master/langs/GR/readme.md"><img src="https://raw.githubusercontent.com/MacrowebCloud/.github/main/assets/icons/lang/gr.svg" width="22px" height="22px"> Greek</a> </img> - 
