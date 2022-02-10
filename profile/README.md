@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.githack.org">
-	<img src="https://raw.githubusercontent.com/githackorg/.github/main/assets/logo.png" class="center" width="95%" height="95%"/>
+	<img src="https://raw.githubusercontent.com/githackorg/.github/main/assets/logo.png" class="center" width="51%" height="51%"/>
 </a>
 </p>
 
